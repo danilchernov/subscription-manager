@@ -11,7 +11,7 @@ Application to control your subscriptions on popular services
 
 ## Tech Stack
 
-**Client:** null
+**Client:** Vite, Vue3
 
 **Server:** Node, Fastify
 
